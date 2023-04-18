@@ -1,0 +1,124 @@
+stylesheet
+body {
+  background-image: url("C:\Users\ruben\Downloads\Ruben zee.JPG");
+  background-color: #301111;
+
+
+ }
+    #blokx{
+      position: absolute;
+      top: 50px;
+      left: 550px;
+      width: 588px;
+      height: 180px;
+      border: solid 5px lightgray;
+      background-color: gray;
+      overflow-y: scroll;
+      padding-left: 250px;
+    }
+    #blok1{
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    width: 588px;
+    height: 180px;
+    border: solid 5px lightgray;
+    background-color: gray;
+    
+    padding-left: 250px;
+    }
+    #blok1_0{
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    width: 588px;
+    height: 180px;
+    border: solid 5px lightgray;
+    background-color: gray;
+    overflow-y: scroll;
+    padding-left: 250px;
+    }
+    #blok2{
+      position: absolute;
+      top: 325px;
+      left: 850px;
+      width: 300px;
+      height: 50px;
+      opacity: 0.8;
+      
+    
+    }
+   
+    #blok3{
+    position: absolute;
+    top: 120px;
+    left: 750px;
+    width: 388px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    opacity: 0.800;
+    border: solid 3px rgb(255, 255, 255);
+    padding-left: 250px;
+    font-family: Arial;
+    color:rgb(255, 255, 255);
+    }
+    #blok2_0{
+      position: absolute;
+      top: 180px;
+      left: 1000px;
+      width: 300px;
+      height: 50px;
+      opacity: 0.8;
+      
+
+    }
+    #blok4{
+        position: absolute;
+        top: 550px;
+        left: 550px;
+        width: 800px;
+        height: 250px;
+        background-color: rgb(255, 255, 255);
+        border: none;
+        opacity: 0.800;
+        overflow-y: scroll;
+        padding-right: 20px;
+        padding-left: 20px;
+        text-align: justify;
+        border: solid 5px rgb(255, 255, 255);
+
+
+        }
+    #blok4_0{
+      position: absolute;
+      top: 300px;
+      left: 675px;
+      width:400;
+      height: 200;
+      padding-right: 20px;
+      padding-left: 20px;
+
+
+    }
+        .menu{
+          display:block;
+          text-align: center;
+          color:rgb(255, 255, 255);
+          background-color: rgb(0, 0, 0);
+          padding: 4px;
+          margin: 2px;
+          text-decoration: none;
+          border: solid 3px rgb(255, 255, 255);
+
+
+         
+          font-family: Arial;
+          }
+          a.menu:hover{
+          color:white;
+          background-color: gray;
+          border: solid 2px white;
+          }
+
+  
